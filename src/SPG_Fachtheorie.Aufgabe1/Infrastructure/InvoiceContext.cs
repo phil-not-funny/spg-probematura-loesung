@@ -73,17 +73,13 @@ namespace SPG_Fachtheorie.Aufgabe1.Infrastructure
         /// </summary>
         public List<EmployeeWithSalesDto> GetEmployeeWithSales(int employeeId)
         {
-            return Invoices.Include(i => i.Employee)
-                .Include(i => i.InvoiceItems)
-                    .ThenInclude(i => i.Article)
-                .Where(i => i.Employee.Id == employeeId)
-                .ToList()
+            return Invoices
                 .Select(i => new EmployeeWithSalesDto(
                     i.Number,
                     i.Date,
                     i.Employee.FirstName,
                     i.Employee.LastName,
-                    i.InvoiceItems.Sum(i => i.Price)
+                    i.InvoiceItems.Sum(i => i.Quantity * i.Article.Price)
                  )).ToList();
 
         }

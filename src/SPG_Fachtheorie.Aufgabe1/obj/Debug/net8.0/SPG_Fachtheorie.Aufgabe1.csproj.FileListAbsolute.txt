@@ -1,0 +1,13 @@
+C:\Scratch\Aufgabe1\Debug\net8.0\SPG_Fachtheorie.Aufgabe1.deps.json
+C:\Scratch\Aufgabe1\Debug\net8.0\SPG_Fachtheorie.Aufgabe1.dll
+C:\Scratch\Aufgabe1\Debug\net8.0\SPG_Fachtheorie.Aufgabe1.pdb
+Q:\Programming\spg-probematura-loesung\src\SPG_Fachtheorie.Aufgabe1\obj\Debug\net8.0\SPG_Fachtheorie.Aufgabe1.csproj.AssemblyReference.cache
+Q:\Programming\spg-probematura-loesung\src\SPG_Fachtheorie.Aufgabe1\obj\Debug\net8.0\SPG_Fachtheorie.Aufgabe1.GeneratedMSBuildEditorConfig.editorconfig
+Q:\Programming\spg-probematura-loesung\src\SPG_Fachtheorie.Aufgabe1\obj\Debug\net8.0\SPG_Fachtheorie.Aufgabe1.AssemblyInfoInputs.cache
+Q:\Programming\spg-probematura-loesung\src\SPG_Fachtheorie.Aufgabe1\obj\Debug\net8.0\SPG_Fachtheorie.Aufgabe1.AssemblyInfo.cs
+Q:\Programming\spg-probematura-loesung\src\SPG_Fachtheorie.Aufgabe1\obj\Debug\net8.0\SPG_Fachtheorie.Aufgabe1.csproj.CoreCompileInputs.cache
+Q:\Programming\spg-probematura-loesung\src\SPG_Fachtheorie.Aufgabe1\obj\Debug\net8.0\SPG_Fachtheorie.Aufgabe1.sourcelink.json
+Q:\Programming\spg-probematura-loesung\src\SPG_Fachtheorie.Aufgabe1\obj\Debug\net8.0\SPG_Fachtheorie.Aufgabe1.dll
+Q:\Programming\spg-probematura-loesung\src\SPG_Fachtheorie.Aufgabe1\obj\Debug\net8.0\refint\SPG_Fachtheorie.Aufgabe1.dll
+Q:\Programming\spg-probematura-loesung\src\SPG_Fachtheorie.Aufgabe1\obj\Debug\net8.0\SPG_Fachtheorie.Aufgabe1.pdb
+Q:\Programming\spg-probematura-loesung\src\SPG_Fachtheorie.Aufgabe1\obj\Debug\net8.0\ref\SPG_Fachtheorie.Aufgabe1.dll
